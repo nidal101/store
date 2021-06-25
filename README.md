@@ -1,0 +1,3 @@
+# store
+application json
+ok
