@@ -1,2 +1,0 @@
-# store
-application json
