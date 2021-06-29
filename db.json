@@ -2,10 +2,11 @@
   "ADS_STATION": [
     {
       
-      "face_banner": "408265563680180_408266190346784",
-      "face__native_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "face_interstital": "408265563680180_408266677013402",
-      "face_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "tapDaqBanner": "banner",
+      "applicationId": "app id",
+            "clientId": "clientId",
+      "tapDaqInit": "init",
+      "tapDaqNative": "native",
       "guide1": "<p><strong><span style=\"color: #ff0000;\">Sneaky Sasquatch  <br></span></strong><span style=\"color: #ff;\"><span style=\"color: #000000;\">is one of those adventure games where you never really know what youll discover each time you play. You take on the role of a friendly, yet mischievous sasquatch who sneaks around a state park, hoping to score some good meals. Your grub can come from coolers, grills refrigerators, and even trash cans.</span></span></p>",
       "guide2": "g2",
       "guide3": "g3",
